@@ -31,8 +31,8 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-src/components/footer/
-src/components/navbar/
+src/components/footer.tsx
+src/components/navbar.tsx
 src/components/space-background.tsx
 
 
